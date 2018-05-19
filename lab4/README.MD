@@ -1,0 +1,2 @@
+- Question 3.7:
+  - For both the following parameters got +200 in CartPole-v0 and -18 in Point-v0: --batch_size 1000 --discount 0.95 --learning_rate 0.22
